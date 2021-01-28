@@ -6,6 +6,7 @@
 - 성공조건: SaaS에 광고를 넣어서 광고비를 최소 4원 번다.
 ## 준비물
 ## 과정
+- 어떤 서비스를 할지 정하기
 - 환경세팅
   - vscode 설치
   - extention 설치
@@ -20,6 +21,11 @@
 - 협업규칙
   - go vet, go test
   - git 사용 및 토론. 이슈, PR의 사용.
+- go doc
+- 인수설정
+- 레귤러 익스프레션
+- test code
+- git action
 - mongoDB 설치
   - NoSQL
 - 웹 페이지 만들기
