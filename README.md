@@ -7,6 +7,7 @@
   - extention 설치
   - git 세팅
 - git
+  - git이란? VCS이자 협업툴. Opensource의 광장.
   - remote <-> local
   - upstream <-> origin
   - pull / push
