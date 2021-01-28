@@ -26,9 +26,9 @@
 - 레귤러 익스프레션
 - test code
 - git action
-- mongoDB 설치
-  - NoSQL
-- 웹 페이지 만들기
+- 웹 서버 / 페이지 만들기
   - template
   - webserver
+  - bootstrap 설치
+- mongoDB 설치
 - VFS
