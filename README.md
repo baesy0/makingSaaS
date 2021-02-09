@@ -12,30 +12,3 @@
     1. repository 만들기
     1. [vscode setting하기](/docs/vscode_setting.md)
     1. 어떤 서비스를 만들지 토론
-  
-- 어떤 서비스를 할지 정하기
-- 환경세팅
-  - vscode 설치
-  - extention 설치
-  - git 세팅
-  - go 설치 / 세팅
-- git
-  - git이란? VCS이자 협업툴. Opensource의 광장.
-  - remote <-> local
-  - upstream <-> origin
-  - pull / push
-  - 명령어 조합: git [action] [repo] [branch]
-- 협업규칙
-  - go vet, go test
-  - git 사용 및 토론. 이슈, PR의 사용.
-- go doc
-- 인수설정
-- 레귤러 익스프레션
-- test code
-- git action
-- 웹 서버 / 페이지 만들기
-  - template
-  - webserver
-  - bootstrap 설치
-- mongoDB 설치
-- VFS
