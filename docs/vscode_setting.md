@@ -4,5 +4,6 @@
 [사이트](https://code.visualstudio.com/download)에서 OS에 맞게 다운로드 한다.
 
 ## 필요한 extenstion 설치
-<p>
+<p align = "left">
+<img src="/img/vscode_extensions.png" width="420"><br/>
 </p>
