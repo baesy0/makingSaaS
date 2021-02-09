@@ -10,7 +10,7 @@
     1. 깃허브 가입
     1. [organization 만들기](/docs/Github_organization.md)
     1. repository 만들기
-    1. vscode setting하기
+    1. [vscode setting하기](/docs/vscode_setting.md)
     1. golang setting 하기
     1. 어떤 서비스를 만들지 토론
   
