@@ -6,6 +6,14 @@
 - 성공조건: SaaS에 광고를 넣어서 광고비를 최소 4원 번다.
 ## 준비물
 ## 과정
+1. 첫 날
+    1. 깃허브 가입
+    1. organization 만들기
+    1. repository 만들기
+    1. vscode setting하기
+    1. golang setting 하기
+    1. 어떤 서비스를 만들지 토론
+  
 - 어떤 서비스를 할지 정하기
 - 환경세팅
   - vscode 설치
