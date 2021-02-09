@@ -8,7 +8,7 @@
 ## 과정
 1. 첫 날
     1. 깃허브 가입
-    1. organization 만들기
+    1. [organization 만들기](/docs/GitHub_organization.md)
     1. repository 만들기
     1. vscode setting하기
     1. golang setting 하기
