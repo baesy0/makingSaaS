@@ -30,3 +30,4 @@ export GOPATH=$HOME/go
 ## reference
 - https://sleepydeveloper.tistory.com/entry/Golang-4-Workspace-개념-및-폴더-생성
 - https://www.callicoder.com/golang-installation-setup-gopath-workspace/
+- https://github.com/golang/go/wiki/SettingGOPATH
