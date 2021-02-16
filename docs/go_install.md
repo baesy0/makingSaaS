@@ -5,6 +5,9 @@
 ```sh
 brew install go
 ```
+### linux
+### windows
+필요할 때 업데이트하겠다.
 # Setting
 ## workspace setting
 ### workspace란?
@@ -22,7 +25,7 @@ brew install go
 export GOPATH=$HOME/go
 ```
 - Windows
-필요하면 아래 레퍼런스 링크 참고 
+  - 필요하면 아래 레퍼런스 링크 참고 
 
 ## reference
 - https://sleepydeveloper.tistory.com/entry/Golang-4-Workspace-개념-및-폴더-생성
