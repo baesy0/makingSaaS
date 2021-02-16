@@ -15,3 +15,4 @@
 1. golang
     1. [다운로드 / install](/docs/go_install.md)
     1. [go 명령어](/docs/go_cmd.md)
+1. code convention 만들기
