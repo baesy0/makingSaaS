@@ -6,6 +6,10 @@
 현재 디렉토리에 있는 패키지를 검사한다.
 기본적으로 옵션에 있는 모든 검사를 실행한다.
 특정한 검사만 실행하고 싶을 땐 flag 변수를 이용하면 된다.
+<p align = "left">
+<img src="/img/govet_flags.png" width="700"><br/>
+</p>
+
 ### go install
 ### go run
 
