@@ -11,4 +11,7 @@
     1. [organization 만들기](/docs/Github_organization.md)
     1. repository 만들기
     1. [vscode setting하기](/docs/vscode_setting.md)
-    1. 어떤 서비스를 만들지 토론
+    1. 어떤 서비스를 만들지 토론 / 자료조사
+1. golang
+    1. [다운로드 / install](https://golang.org/doc/install)
+    1. [go 명령어](/docs/go_cmd.md)
