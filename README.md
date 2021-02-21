@@ -6,14 +6,14 @@
 - 성공조건: SaaS에 광고를 넣어서 광고비를 최소 4원 번다.
 ## 준비물
 ## 과정
-1. 첫 날
+1. 첫 날(2021.2.9)
     1. 깃허브 가입
     1. [organization 만들기](/docs/Github_organization.md)
     1. repository 만들기
     1. [vscode setting하기](/docs/vscode_setting.md)
     1. 어떤 서비스를 만들지 토론 / 자료조사
-1. golang
+1. golang(2021.2.16)
     1. [다운로드 / install](/docs/go_install.md)
     1. [go 명령어](/docs/go_cmd.md)
 1. code convention 만들기
-1. golang 실습
+1. golang 실습(2021.2.21)
