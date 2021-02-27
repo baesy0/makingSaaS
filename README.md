@@ -14,6 +14,7 @@
     1. 어떤 서비스를 만들지 토론 / 자료조사
 1. golang(2021.2.16)
     1. [다운로드 / install](/docs/go_install.md)
-    1. [go 명령어](/docs/go_cmd.md)
+    2. [GO setting](/docs/go_setting.md)
+    3. [GO 명령어](/docs/go_cmd.md)
 1. code convention 만들기
-1. [golang 실습](/docs/golang_setting_practice.md)(2021.2.21)
+1. [golang 실습](/docs/go_setting_practice.md)(2021.2.21)
