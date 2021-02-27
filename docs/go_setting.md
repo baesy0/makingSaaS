@@ -4,7 +4,7 @@
 - go code가 저장되는 장소.
 - 환경변수 `GOPATH`로 지정할 수 있다.
 - 현재는 GOPATH이외의 장소에 project를 저장해도 괜찮다고 한다.
-### setting GOPATH
+### GOPATH 설정하기
 - 지정하지 않으면, 기본적으로
   - Unix systems에서는 `$HOME/go`
   - Windows에서는 `%USERPROFILE%\go`으로 지정된다.
