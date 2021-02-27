@@ -55,6 +55,7 @@ func main() {
 ```
 ## 5. GO 명령어 쳐보기
 1. go vet
+
 아무 문제 없다면 아무것도 뜨지 않아요.
 일부러 오타를 낸 후 go vet을 쳐보면 몇 번째 줄에서 무엇이 잘못됐는지 알려줍니다.
 ### 오타를 낸 경우
@@ -68,6 +69,7 @@ famt.Println("hello, world")
 vet: ./helloworld.go:4:2: undeclared name: famt
 ```
 2. go run
+
 아래와 같이 입력하면
 ```sh
 go run ./helloworld.go
@@ -96,7 +98,7 @@ hello, world
 ```
 
 
-### 어떤 위치에서든 프로젝트파일을 실행시키고 싶다면
+### + 어떤 위치에서든 프로젝트파일을 실행시키고 싶다면
 `.bash_profile` 혹은 `.zshrc`에 가서 다음과 같은 명령어를 추가한다.
 ```sh
 export PATH=$PATH:$GOBIN
