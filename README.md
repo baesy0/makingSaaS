@@ -18,3 +18,4 @@
     3. [GO 명령어](/docs/go_cmd.md)
 1. code convention 만들기
 1. [golang 실습](/docs/go_setting_practice.md)(2021.2.21)
+1. Let's git it
