@@ -86,3 +86,4 @@ bin폴더로 이동해 확인해봅시다.
 $ cd /myworkspace/bin
 $ ls
 ```
+hello
