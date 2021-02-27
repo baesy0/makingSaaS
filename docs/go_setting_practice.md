@@ -5,6 +5,7 @@
 ```sh
 $ vim ~/.bash_profile
 ```
+혹은
 ```sh
 $ vim ~/.zshrc
 ```
