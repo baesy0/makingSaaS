@@ -39,11 +39,11 @@ $ mkdir :username
 $ cd :username
 $ mkdir hello
 ```
-프로젝트 이름은 `hello`!
+예제 프로젝트 이름은 `hello`!
 ## 4. vscode에서 프로젝트 코드 치기
 1. vscode를 열고 `open folder`클릭
 2. 위에서 설정한 프로젝트 폴더 열기(myworkspace/src/github.com/:username/hello)
-3. hello.go 파일 만들기
+3. helloworld.go 파일 만들기
 ```go
 package main
 
@@ -65,6 +65,24 @@ famt.Println("hello, world")
 이후 `go vet`을 입력하면 아래와 같이 에러를 알려줍니다.
 ```sh
 # github.com/:username/hello
-vet: ./hello.go:4:2: undeclared name: famt
+vet: ./helloworld.go:4:2: undeclared name: famt
 ```
 2. go run
+아래와 같이 입력하면
+```sh
+go run ./helloworld.go
+```
+아래와 같은 결과가 나옵니다.
+```
+hello, world
+```
+3. go install
+```sh
+go install
+```
+위와 같이 입력하면 `$GOPATH`아래에 `bin`폴더가 생기고 그 안에 프로젝트 실행파일이 담깁니다.
+bin폴더로 이동해 확인해봅시다.
+```
+$ cd /myworkspace/bin
+$ ls
+```
