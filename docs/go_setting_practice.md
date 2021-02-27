@@ -9,6 +9,7 @@ $ vim ~/.bash_profile
 ```sh
 $ vim ~/.zshrc
 ```
+> `.bash_profile`이 없는 경우가 있다. 당황하지 말고 직접 만들어주면 된다:) Don't panic. Just Make it!
 2. GOPATH 설정하는 명령어 추가
 GOPATH=`원하는 경로`
 ```sh
@@ -54,11 +55,10 @@ func main() {
 }
 ```
 ## 5. GO 명령어 쳐보기
-1. go vet
-
+### go vet
 아무 문제 없다면 아무것도 뜨지 않아요.
 일부러 오타를 낸 후 go vet을 쳐보면 몇 번째 줄에서 무엇이 잘못됐는지 알려줍니다.
-### 오타를 낸 경우
+#### 오타를 낸 경우
 아래는 일부러 `fmt`를 `famt`로 잘못 표기했습니다.
 ```go
 famt.Println("hello, world")
@@ -68,7 +68,7 @@ famt.Println("hello, world")
 # github.com/:username/hello
 vet: ./helloworld.go:4:2: undeclared name: famt
 ```
-2. go run
+### go run
 
 아래와 같이 입력하면
 ```sh
@@ -78,7 +78,7 @@ go run ./helloworld.go
 ```
 hello, world
 ```
-3. go install
+### go install
 ```sh
 go install
 ```
@@ -96,6 +96,8 @@ $ ./hello
 ```
 hello, world
 ```
+
+
 
 
 ### + 어떤 위치에서든 프로젝트파일을 실행시키고 싶다면
