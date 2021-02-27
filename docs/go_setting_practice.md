@@ -82,8 +82,23 @@ go install
 ```
 위와 같이 입력하면 `$GOPATH`아래에 `bin`폴더가 생기고 그 안에 프로젝트 실행파일이 담깁니다.
 bin폴더로 이동해 확인해봅시다.
-```
+```sh
 $ cd /myworkspace/bin
 $ ls
 ```
-hello
+`hello`라는 실행파일이 생긴 것을 볼 수 있다. 실행해보자.
+```sh
+$ ./hello
+```
+아래와 같은 결과가 나옵니다.
+```
+hello, world
+```
+
+
+### 어떤 위치에서든 프로젝트파일을 실행시키고 싶다면
+`.bash_profile` 혹은 `.zshrc`에 가서 다음과 같은 명령어를 추가한다.
+```sh
+export PATH=$PATH:$GOBIN
+```
+> `$GOBIN`의 default값은 `$GOPATH/bin`이다.
