@@ -26,3 +26,4 @@
     4. upstream & origin
     5. branch
 1. [command line flag(커맨드라인 플래그) 만들기](/docs/command_line_flag.md)(2021.3.7)
+1. git actions 설치하기
