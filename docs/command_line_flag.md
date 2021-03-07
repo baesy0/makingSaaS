@@ -107,11 +107,11 @@ go install
 ```
 ---
 - 입력
-```sh
+```
 hello
 ```
 - 출력
-```sh
+```
 Usage of hello:
   -name
         name of project
@@ -120,29 +120,29 @@ Usage of hello:
 ```
 ---
 - 입력
-```sh
+```
 hello -test
 ```
 - 출력
-```sh
+```
 This is flag test
 ```
 ---
 - 입력
-```sh
+```
 hello -name
 ```
 - 출력
-```sh
+```
 the name of this project is hello
 ```
 ---
 - 입력
-```sh
+```
 hello --help
 ```
 - 출력
-```sh
+```
 Usage of hello:
   -name
         name of project
