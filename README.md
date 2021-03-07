@@ -25,4 +25,4 @@
     3. commit & push/pull
     4. upstream & origin
     5. branch
-1. flag 만들기
+1. flag 만들기(2021.3.7)
