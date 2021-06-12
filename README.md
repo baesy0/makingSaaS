@@ -4,7 +4,7 @@
 - 그 과정에서 완결된 웹서비스를 하나 제작하는 경험하기.
 - git을 통한 협업 익히기
 - 성공조건: SaaS에 광고를 넣어서 광고비를 최소 4원 번다.
-- 레포지터리: [lotto](https://github.com/janghangdongminions/lotto)
+- 레포지터리: [lotto](https://github.com/janghangdong-minions/lotto)
 ## 준비물
 - 개인 컴퓨터(linux계열 OS 권장. 강력히 권장..)
 ## 과정
