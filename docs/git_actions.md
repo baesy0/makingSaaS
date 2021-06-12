@@ -5,6 +5,7 @@ CI/CD process를 자동화할 수 있다.
 - [공식문서](https://docs.github.com/en/actions)
 
 ###  CI/CD
+Continuous Integration / Continuous Delivery, Continuous Deployment
 
 
 ### Reference
