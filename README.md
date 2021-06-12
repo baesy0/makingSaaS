@@ -28,11 +28,12 @@
     5. branch
 1. [command line flag(커맨드라인 플래그) 만들기](/docs/command_line_flag.md)(2021.3.7)
 1. [git actions 설치하기](/docs/git_actions.md)(2021.3.14)
-1. [웹서버 구축하기](/docs/webserver_setting.md)
-2. [flag로 웹서버를 실행할 수 있도록 연결하기](webserver_executing_via_flag.md)
-3. template(2021.3.28)
-4. template이랑 웹서버 연결하기
-5. bootstrap 다운받기(2021.4.4)
-6. html에서 bootstrap 연결하기
-7. bootstrap을 이용해 버튼만들고 기능 연결하기
-8. handle로 페이지 만들고 버튼과 연결하기
+2. Webserver
+    1. [웹서버 구축하기](/docs/webserver_setting.md)
+    2. [cmd로 웹서버를 실행하기](/docs/webserver_executing_via_cmd.md)
+5. template(2021.3.28)
+6. template이랑 웹서버 연결하기
+7. bootstrap 다운받기(2021.4.4)
+8. html에서 bootstrap 연결하기
+9. bootstrap을 이용해 버튼만들고 기능 연결하기
+10. handle로 페이지 만들고 버튼과 연결하기
