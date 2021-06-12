@@ -30,7 +30,8 @@
 1. [git actions 설치하기](/docs/git_actions.md)(2021.3.14)
 2. Webserver
     1. [웹서버 구축하기](/docs/webserver_setting.md)
-    2. [cmd로 웹서버를 실행하기](/docs/webserver_executing_via_cmd.md)
+    2. [서비스 IP 받아오기](/docs/webserver_get_serviceIP.md)
+    3. [cmd로 웹서버를 실행하기](/docs/webserver_executing_via_cmd.md)
 5. template(2021.3.28)
 6. template이랑 웹서버 연결하기
 7. bootstrap 다운받기(2021.4.4)
