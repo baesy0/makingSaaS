@@ -32,4 +32,6 @@
 1. template(2021.3.28)
 1. template이랑 웹서버 연결하기
 1. bootstrap 다운받기(2021.4.4)
-1. bootstrap을 이용해 버튼만들고 기능 연결하기
+2. html에서 bootstrap 연결하기
+3. bootstrap을 이용해 버튼만들고 기능 연결하기
+4. handle로 페이지 만들고 버튼과 연결하기
