@@ -27,7 +27,7 @@
     4. upstream & origin
     5. branch
 1. [command line flag(커맨드라인 플래그) 만들기](/docs/command_line_flag.md)(2021.3.7)
-1. git actions 설치하기(2021.3.14)
+1. [git actions 설치하기](/docs/git_actions.md)(2021.3.14)
 1. 웹서버 구축하기
 1. template(2021.3.28)
 1. template이랑 웹서버 연결하기
