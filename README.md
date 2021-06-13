@@ -59,4 +59,4 @@
 25. VFS(Virtual File System) 구축
     - 기본적인 요소들은 다 배웠으니 잘 싸서 안정적으로 만들기!)
     - VFS란?
-    - 
+    - VFS 쓰는 이유
