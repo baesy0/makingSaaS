@@ -18,7 +18,7 @@
     1. [다운로드 / install](/docs/go_install.md)
     2. [GO setting](/docs/go_setting.md)
     3. [GO 명령어](/docs/go_cmd.md)
-1. code convention 만들기
+1. code convention 만들기(Wiki)
 1. [golang 실습](/docs/go_setting_practice.md)(2021.2.21)
 1. Let's git it(2021.2.28)
     1. clone
@@ -38,3 +38,13 @@
 8. html에서 bootstrap 연결하기
 9. bootstrap을 이용해 버튼만들고 기능 연결하기
 10. handle로 페이지 만들고 버튼과 연결하기
+11. 자료구조 토론하기/정하기
+12. 함수에 숫자 띄우기(자료구조 + template문법)
+13. 함수만들기(backend)
+14. 리팩토링(인수를 flag변수로, 디버깅이 쉽도록 cmd로 함수를 실행할 수 있도록 함)
+15. 함수의 결과값 페이 지에 띄우기(backend result ---link---> frontend)
+16. 이쁘게 띄우기
+    1. CSS 조사 및 적용
+    2. 숫자가 한자리 일 때는 앞에 0붙이기(template function)
+1. js 파일 생성 및 html에 연결하기
+2. html파일에 js event 추가하기
