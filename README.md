@@ -34,17 +34,22 @@
     3. [cmd로 웹서버를 실행하기](/docs/webserver_executing_via_cmd.md)
 5. template(2021.3.28)
 6. template이랑 웹서버 연결하기
-7. bootstrap 다운받기(2021.4.4)
-8. html에서 bootstrap 연결하기
-9. bootstrap을 이용해 버튼만들고 기능 연결하기
-10. handle로 페이지 만들고 버튼과 연결하기
-11. 자료구조 토론하기/정하기
-12. 함수에 숫자 띄우기(자료구조 + template문법)
-13. 함수만들기(backend)
-14. 리팩토링(인수를 flag변수로, 디버깅이 쉽도록 cmd로 함수를 실행할 수 있도록 함)
-15. 함수의 결과값 페이 지에 띄우기(backend result ---link---> frontend)
-16. 이쁘게 띄우기
+---
+8. bootstrap 다운받기(2021.4.4)
+9. html에서 bootstrap 연결하기
+11. bootstrap을 이용해 버튼만들고 기능 연결하기
+---
+13. handle로 페이지 만들고 버튼과 연결하기
+---
+15. 자료구조 토론하기/정하기
+16. 함수에 숫자 띄우기(자료구조 + template문법)
+17. 함수만들기(backend)
+---
+19. 리팩토링(인수를 flag변수로, 디버깅이 쉽도록 cmd로 함수를 실행할 수 있도록 함)
+---
+21. 함수의 결과값 페이 지에 띄우기(backend result ---link---> frontend)
+22. 이쁘게 띄우기
     1. CSS 조사 및 적용
     2. 숫자가 한자리 일 때는 앞에 0붙이기(template function)
-1. js 파일 생성 및 html에 연결하기
-2. html파일에 js event 추가하기
+23. js 파일 생성 및 html에 연결하기
+24. html파일에 js event 추가하기
