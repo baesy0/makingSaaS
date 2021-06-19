@@ -61,3 +61,6 @@
     - VFS란?
     - VFS 쓰는 이유
     - gitignore/git actions
+1. 라이브러리 관리
+    - go mod init
+    - go get
