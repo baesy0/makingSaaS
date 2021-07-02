@@ -64,3 +64,5 @@
 1. 라이브러리 관리
     - go mod init
     - go get
+1. API 만들기
+2. 서버, DB 조사
