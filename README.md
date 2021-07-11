@@ -71,3 +71,5 @@
 1. 서버, DB 조사
     - 규모가 작으니 DB는 로컬 스토리지나 세션 스토리지를 사용하기로 
 1. 도메인 구매 - oneshotlotto
+1. DNS 서버 연결 - AWS
+1. 광고 넣기 - Google AdSense
